@@ -1,7 +1,7 @@
 # Employee Wellness & Mental Health Analysis
 
 ## Overview
-This project explores the relationship between employee mental health and workplace environment using survey-based data. The goal of the analysis is to better understand how different workplace factors influence mental health outcomes and whether there is a correlation between where an individual works (n-site, hybrid, or remote) and their mental health risk.
+This project explores the relationship between employee mental health and workplace environment using survey-based data. The goal of the analysis is to better understand how different workplace factors influence mental health outcomes and whether there is a correlation between where an individual works (on-site, hybrid, or remote) and their mental health risk.
 
 ---
 
