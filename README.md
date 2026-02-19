@@ -52,6 +52,8 @@ Mental health risk status is the strongest predictor of performance metrics.
 ## Tableau Dashboard Preview
 <img width="2598" height="1998" alt="image" src="https://github.com/user-attachments/assets/1fffcd52-7bc1-431a-8d0b-e7ab462f7e29" />
 
+<img width="1732" height="1338" alt="image" src="https://github.com/user-attachments/assets/cfc05a3b-82a5-477f-bdc9-d3700896ebc1" />
+
 
 
 ## Link to Tableau Public Dashboard 
