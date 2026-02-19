@@ -41,8 +41,8 @@ Key Findings:
 
 The analysis suggests that work environment changes alone are unlikely to reduce mental health risk.
 
-Organizations should prioritize early risk identification, stress management initiatives, and targeted mid-career support rather than relying solely on remote or hybrid policy adjustments.
-Mental health risk status is the strongest predictor of performance metrics.
+Organizations should prioritize early risk identification, stress management initiatives, and target mid-career support rather than relying solely on remote or hybrid policy adjustments.
+Mental health risk status is the strongest predictor of performance metrics and should be used to understand employees and meet their needs.
 
 ## Technical Tools Used
 - Excel
