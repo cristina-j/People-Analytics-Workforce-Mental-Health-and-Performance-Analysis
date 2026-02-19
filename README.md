@@ -30,9 +30,9 @@ To answer this question, I broke down the problem into smaller analytical questi
 
 Key Findings:
 
-1. Work environment shows a small variation in risk distribution (≈3pp spread).
+1. Work environment shows a small variation in risk distribution (3pp difference).
 2. High stress concentration varies <2pp across environments.
-3. Age demonstrates a greater differentiation (≈5–7pp spread).
+3. Age demonstrates a greater differentiation (5–7pp range).
 4. Mid-career employees (36–55) show higher stress concentration.
 5. Gender differences exist but are minimal (4.6pp difference).
 6. Productivity decline aligns strongly with mental health risk level, not work environment.
