@@ -1,7 +1,9 @@
-# Employee Wellness & Mental Health Analysis
+# Employee Wellness & Mental Health Risk Analysis
 
 ## Overview
-This project explores the relationship between employee mental health and workplace environment using survey-based data. The goal of the analysis is to better understand how different workplace factors influence mental health outcomes and whether there is a correlation between where an individual works (on-site, hybrid, or remote) and their mental health risk.
+This project analyzes whether work environment (remote, hybrid, on-site) or demographic factors (age, gender) have stronger associations with employee mental health risk and productivity outcomes.
+
+The goal is to determine whether work environment changes meaningfully influence well-being or whether intervention strategies should focus on demographic or mental health risk-based segmentation instead.
 
 ---
 
@@ -10,20 +12,42 @@ The primary question that needs to be answered is: how do different work environ
 
 To answer this question, I broke down the problem into smaller analytical questions:
 
-- Which work environment has the highest proportions of high-risk employees?
-- Do stress, sleep, anxiety, and depression levels differ across work enviornments?
-- Is one type of work environment associated with better productivity?
-- Which well-being factors are most associated with high, medium, and low mental health risk categories?
+- Does work environment influence mental health risk distribution?
+
+- How is high stress distributed across environments?
+
+- Does productivity vary by work environment?
+
+- Does age explain greater variation in risk concentration?
+
+- Does gender influence mental health risk levels?
+
+- Is productivity more strongly associated with demographic factors or risk status?
 
 ---
 
-## How the data was collected
-The data was collected from a Kaggle dataset which explores the relationship between workplace conditions and employee mental heatlh. The creator notes that the dataset was designed to analyze how factors such as stress, depression, productivity, anxiety, and sleep vary across different work environments which includes remote, hybrid, and on-site settings. The dataset includes individual self-reported metrics and a classified mental health risk level (Low, Medium, High), allowing for meaningful exploration of how workplace structure may influence an individuals overall well-being.
+## Executive Findings
+This section should summarize the entire project in 6–8 bullets.
 
-## Methodology
-I began the analysis by exploring the dataset in Excel to familiarize myself with the structure of the data, review each column, and identify what kinds of questions the dataset could answer. This initial exploration helped me understand the distribution of key attributes such as stress, depression, anxiety, sleep hours, and work environment, and then guided the development of meaningful sub-questions that support the overall business question. 
+Key Findings:
+1. Work environment shows a small variation in risk distribution (≈3pp spread).
+2. High stress concentration varies <2pp across environments.
+3. Age demonstrates a greater differentiation (≈5–7pp spread).
+4. Mid-career employees (36–55) show higher stress concentration.
+5. Gender differences exist but are minimal (4.6pp difference).
+6. Productivity decline aligns strongly with mental health risk level, not work environment.
 
-Since the dataset from Kaggle was already clean, minimal cleaning was required. After reviewing the data, I imported the CSV file into SQL, where I conducted the majority of the analysis, wrote queries to calculate averages, counts, and percentages, and examined how workplace conditions affect mental health risk and employee well-being.
+## Business Recommendation
+
+The analysis suggests that work environment changes alone are unlikely to reduce mental health risk.
+
+Organizations should prioritize early risk identification, stress management initiatives, and targeted mid-career support rather than relying solely on remote or hybrid policy adjustments.
+Mental health risk status is the strongest predictor of performance metrics.
+
+## Technical Tools Used
+- Excel
+- SQL Workbench
+- Tableau
 
 ## Link to Tableau Public Dashboard 
 [Employee Mental Health & Well-Being Dashboard](https://public.tableau.com/app/profile/cristina.john7002/viz/HRDashboardMentalHealthRisk/Dashboard3)
