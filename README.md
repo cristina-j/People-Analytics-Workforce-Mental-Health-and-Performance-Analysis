@@ -55,4 +55,4 @@ Mental health risk status is the strongest predictor of performance metrics.
 
 
 ## Link to Tableau Public Dashboard 
-[Employee Mental Health & Well-Being Dashboard](https://public.tableau.com/app/profile/cristina.john7002/viz/HRDashboardMentalHealthRisk/Dashboard3)
+[Employee Wellness & Mental Health Risk Dashboard](https://public.tableau.com/app/profile/cristina.john7002/viz/HRDashboardMentalHealthRisk/Dashboard3)
