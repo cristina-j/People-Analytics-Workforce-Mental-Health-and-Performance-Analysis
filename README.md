@@ -27,9 +27,9 @@ To answer this question, I broke down the problem into smaller analytical questi
 ---
 
 ## Executive Findings
-This section should summarize the entire project in 6–8 bullets.
 
 Key Findings:
+
 1. Work environment shows a small variation in risk distribution (≈3pp spread).
 2. High stress concentration varies <2pp across environments.
 3. Age demonstrates a greater differentiation (≈5–7pp spread).
